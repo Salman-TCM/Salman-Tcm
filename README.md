@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-Hi there! I'm Salman, a passionate software developer and AI enthusiast with a love for problem-solving and creating impactful solutions.  
+[Hi there! I'm Salman, a passionate software developer and AI enthusiast with a love for problem-solving and creating impactful solutions.  
 
 🔧 **What I Do:**  
 - **Automation & Scraping:** Crafting bots and tools using Selenium, BeautifulSoup, and APIs to simplify repetitive tasks and gather data efficiently.  
@@ -27,6 +27,6 @@ I’m driven by curiosity and the desire to solve real-world problems. Whether i
 
 🌟 **Fun Fact:**  
 I’m always experimenting with new tech! Whether it’s fine-tuning an LLM or mastering a new framework, I thrive on the thrill of learning.  
-
+](https://x.com/SalmanTCM)
 📬 **Let’s Connect:**  
 Feel free to reach out on [LinkedIn](#https://www.linkedin.com/in/salmanhossain96/) or [Twitter](#https://x.com/SalmanTCM) to collaborate, discuss AI, or just say hi!  
